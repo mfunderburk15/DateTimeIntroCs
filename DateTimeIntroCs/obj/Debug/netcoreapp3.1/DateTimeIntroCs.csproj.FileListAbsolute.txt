@@ -1,0 +1,14 @@
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\bin\Debug\netcoreapp3.1\DateTimeIntroCs.exe
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\bin\Debug\netcoreapp3.1\DateTimeIntroCs.deps.json
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\bin\Debug\netcoreapp3.1\DateTimeIntroCs.runtimeconfig.json
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\bin\Debug\netcoreapp3.1\DateTimeIntroCs.runtimeconfig.dev.json
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\bin\Debug\netcoreapp3.1\DateTimeIntroCs.dll
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\bin\Debug\netcoreapp3.1\DateTimeIntroCs.pdb
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\obj\Debug\netcoreapp3.1\DateTimeIntroCs.csproj.AssemblyReference.cache
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\obj\Debug\netcoreapp3.1\DateTimeIntroCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\obj\Debug\netcoreapp3.1\DateTimeIntroCs.AssemblyInfoInputs.cache
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\obj\Debug\netcoreapp3.1\DateTimeIntroCs.AssemblyInfo.cs
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\obj\Debug\netcoreapp3.1\DateTimeIntroCs.csproj.CoreCompileInputs.cache
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\obj\Debug\netcoreapp3.1\DateTimeIntroCs.dll
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\obj\Debug\netcoreapp3.1\DateTimeIntroCs.pdb
+C:\Users\masen\source\repos\DateTimeIntroCs\DateTimeIntroCs\obj\Debug\netcoreapp3.1\DateTimeIntroCs.genruntimeconfig.cache
